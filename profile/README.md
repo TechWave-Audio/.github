@@ -12,4 +12,3 @@ It started with a love of music, electronics, and software design and the inters
 
 ### [MCM-100 Midi to CV Module](https://github.com/TechWave-Audio/TechWaveAudio-MidiControllerModule)
 <img src="./mcm-100-side-view-2-small.png" alt="MCM-100 Midi to CV Module" />
-s
